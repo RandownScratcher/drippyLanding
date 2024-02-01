@@ -61,6 +61,15 @@ header {
     gap: 2em;
 }
 
+.headerLinkList {
+    list-style: none;
+}
+
+.headerLinkList li a {
+    color: white;
+
+}
+
 
 /* home stuff*/
 
