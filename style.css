@@ -136,3 +136,17 @@ header {
     border-radius: 10px;
 
 }
+
+/* Contact us stuff*/
+
+.contactUs {
+    background-color: #00ADB5;
+    padding: 40px;
+
+    margin-top: 2em;
+
+}
+
+#contactUsTitle {
+    font-size: 42px;
+}
