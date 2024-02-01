@@ -17,6 +17,8 @@ body{
     border-radius: 10px;
 
     background-color: #00ADB5;
+
+    margin: 3vw auto;
 }
 
 
@@ -58,6 +60,8 @@ header {
 
 
 main {
+
+
     display: flex;
 
     justify-content: center;
