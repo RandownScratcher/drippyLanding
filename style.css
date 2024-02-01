@@ -190,3 +190,22 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+/* footer stuff */
+
+
+footer {
+    background-color: #00ADB5;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footerTop {
+    display: flex;
+    align-items: center;
+}
