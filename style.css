@@ -140,13 +140,34 @@ header {
 /* Contact us stuff*/
 
 .contactUs {
-    background-color: #00ADB5;
-    padding: 40px;
+    padding: 20px;
 
     margin-top: 2em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 
 #contactUsTitle {
     font-size: 42px;
+}
+
+
+.contactUsLinkList {
+    list-style-type: none;
+
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.smIcon {
+    width: 75px;
+}
+
+.smIconBalance {
+    width: 100px;
 }
