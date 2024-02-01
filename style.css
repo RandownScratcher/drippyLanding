@@ -96,6 +96,8 @@ header {
 
     width: min(max(20vw, 300px), 600px);
     height: auto;
+
+    border-radius: 10px;
 }
 
 
@@ -130,5 +132,7 @@ header {
 .aboutUsImage {
     width: min(max(40vw, 300px), 500px);
     height: auto;
+
+    border-radius: 10px;
 
 }
