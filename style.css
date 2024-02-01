@@ -209,3 +209,24 @@ footer {
     display: flex;
     align-items: center;
 }
+
+.footerBottom {
+    background-color:#222831;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.footerBottom p a {
+    
+    color: white;
+}
+
+.githubIcon {
+    height: 50px;
+}
