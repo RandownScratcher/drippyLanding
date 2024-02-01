@@ -57,7 +57,7 @@ header {
 }
 
 
-/* main stuff*/
+/* home stuff*/
 
 
 .home {
@@ -96,4 +96,39 @@ header {
 
     width: min(max(20vw, 300px), 600px);
     height: auto;
+}
+
+
+/* aboutUs stuff */
+
+
+.aboutUs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#aboutUsTitle {
+    text-align: center;
+    font-size: 42px;
+}
+
+.aboutUsBottom {
+    display: flex;
+    gap: 5vw;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.aboutUsBottomPar {
+    width: 300px;
+    font-size: 24px;
+}
+
+.aboutUsImage {
+    width: min(max(40vw, 300px), 500px);
+    height: auto;
+
 }
